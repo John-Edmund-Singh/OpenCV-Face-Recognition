@@ -1,4 +1,7 @@
 # OpenCV-Face-Recognition
+
+This is John
+
 Real-time face recognition project with OpenCV and Python
 <br><br>
 Links for complete Tutorial:
