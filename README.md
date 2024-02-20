@@ -1,6 +1,6 @@
 # OpenCV-Face-Recognition
 
-This is John
+This is Johny
 
 Real-time face recognition project with OpenCV and Python
 <br><br>
